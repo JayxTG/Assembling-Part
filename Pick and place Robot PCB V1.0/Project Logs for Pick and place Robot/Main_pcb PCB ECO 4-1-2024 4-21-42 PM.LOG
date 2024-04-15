@@ -1,0 +1,9 @@
+Added Component: Designator=U?(MODULE_A4988_STEPPER_MOTOR_DRIVER_CARRIER)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "A4988_STEPPER_MOTOR_DRIVER_CARRIER"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add Net: Net with name "GND" already exists
+Added Member To Class: ClassName=Main_Schematic Member=Component U? A4988_STEPPER_MOTOR_DRIVER_CARRIER
