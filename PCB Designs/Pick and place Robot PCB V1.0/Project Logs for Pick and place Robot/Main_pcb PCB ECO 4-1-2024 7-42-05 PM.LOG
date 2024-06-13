@@ -1,9 +1,0 @@
-Change Component Designator: OldDesignator=Q? NewDesignator=Q3
-Add Component: Footprint Not Found RELAY_SRD-05VDC-SL-C
-Add Pin To Net: Unknown Pin: Pin K1-A1
-Add Pin To Net: Unknown Pin: Pin K1-A2
-Add Pin To Net: Unknown Pin: Pin K1-COM
-Add Pin To Net: Unknown Pin: Pin K1-NO
-Change Net Name : Old Net Name=NetQ?_2 New Net Name=NetQ3_2
-Add Net: Net with name "GND" already exists
-Add Class Member: Failed to add class member : Component K1 Relay
