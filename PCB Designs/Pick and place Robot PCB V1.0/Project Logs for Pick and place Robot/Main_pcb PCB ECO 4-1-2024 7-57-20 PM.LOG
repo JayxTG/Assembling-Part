@@ -1,7 +1,0 @@
-Add Component: Footprint Not Found RELAY_SRD-05VDC-SL-C
-Add Pin To Net: Unknown Pin: Pin K1-A1
-Add Pin To Net: Unknown Pin: Pin K1-A2
-Add Pin To Net: Unknown Pin: Pin K1-COM
-Add Pin To Net: Unknown Pin: Pin K1-NO
-Add Net: Net with name "GND" already exists
-Add Class Member: Failed to add class member : Component K1 SRD-05VDC-SL-C
