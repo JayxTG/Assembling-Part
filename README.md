@@ -36,10 +36,10 @@ Contributions are welcome! Please follow these steps:
 5. Submit a pull request.
 
 ## Group Members
-- 210054F Atapattu A.M.L.R.
-- 210079K Charles J.
-- 210179R Gammune D.J.T.
-- 210285M Kavishan G.T.
+- Atapattu A.M.L.R.
+- Charles J.
+- Gammune D.J.T.
+- Kavishan G.T.
 
 ## Acknowledgments
 - [University of Moratuwa](https://www.mrt.ac.lk/) for providing the project guidelines and resources.
