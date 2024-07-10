@@ -28,6 +28,8 @@ The objective of this project is to create an automated robotic arm system that 
 - PCB Design Software
 - Python (for controller interface)
 - Relevant Drivers and Libraries
+- MPLAB IDE (for coding at RTL level using C++)
+- GCC AVR Compiler
 
 ## 📁 Folder Structure
 
