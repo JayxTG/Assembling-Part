@@ -39,15 +39,6 @@ The objective of this project is to create an automated robotic arm system that 
 - `Solidworks Designs`: SolidWorks designs for the robot arm's mechanical components, including the arm assembly, gripper mechanism, and enclosures.
 - `Software` : Software setup of the Device
 
-## 🎛️ How to Use
-
-1. Clone the Repository
-   Clone the repository to your local machine:
-   ```bash
-   git clone https://github.com/your-username/pick-and-place-robot-arm.git
-   ```
-2. Explore the Folders Navigate through the folders to find design files, documentation, and other project resources.
-3. Follow Documentation Refer to the project documentation for detailed assembly instructions, software setup, and usage guidelines.
 
 ## 📸 Sample Usage
 ### Creating the Robot Arm
